@@ -2,8 +2,6 @@
 
 <h2 align='center'>Cuatrimestre Mayo - Agosto 2021 </h2>
 
-Cande Ricardo Leyva Hernandez 00312949
-
 Esye proyecto se elaboro una página web con un diseño de una base de datos, el proyecto es sistema web para docente y lo que podemos encontrar son registro, edicion del regsitro y eliminar el registro.
 
 <h2 align='center'>o OBJETIVO GENERAL o</h2>
@@ -19,18 +17,15 @@ El objetivo principal es que desarrollo un sistema web escolar basado para el do
 [![Captura-de-pantalla-320.png](https://i.postimg.cc/rpkfK4rc/Captura-de-pantalla-320.png)](https://postimg.cc/Mn97Lv5r)
 "Eliminado el resgistro del alumno"
 
-<h2 align='center'>o ENLACE PARA DESCARGAR EL ARCHIVO EJECUTABLE o</h2>
-<a href="https://github.com/candrhiz/Proyecto-BDD.git">LINK PARA DESCARGAR EL CODIGO</a>
-
 <h2 align='center'>o DIAGRAMAS DE CLASES UML o</h2>
 
 
 
+<h2 align='center'>o ENLACE PARA DESCARGAR EL ARCHIVO EJECUTABLE o</h2>
+<a href="https://github.com/candrhiz/Proyecto-BDD.git">LINK PARA DESCARGAR EL CODIGO</a>
 
 <h2 align='center'>o ENLACE AL VIDEO DE YOUTUBE o</h2>
-<a href="https://youtu.be/RlfgqXQ_tKk">LINK AL VIDEO DEL PROYECTO: F1_ESAY</a>
-
-
+<a href="">LINK AL VIDEO DEL PROYECTO</a>
 
 
 <h2 align='center'>o CREDITOS o</h2>
