@@ -4,6 +4,8 @@
 
 Cande Ricardo Leyva Hernandez 00312949
 
+Esye proyecto se elaboro una página web con un diseño de una base de datos, el proyecto es sistema web para docente y lo que podemos encontrar son registro, edicion del regsitro y eliminar el registro.
+
 <h2 align='center'>o OBJETIVO GENERAL o</h2>
 El objetivo principal es que desarrollo un sistema web escolar basado para el docente, tambien se creo la base de datos, todo esto apkicado de los conocimientos que tuvimos durante el cuatrimestre cursado.
 
