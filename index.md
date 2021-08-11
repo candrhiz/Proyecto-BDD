@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+<h1 align='center'>Proyecto Final de BDD de Ingeniria en Sistemas Computacionales </h1>
 
-You can use the [editor on GitHub](https://github.com/candrhiz/Proyecto-BDD/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h2 align='center'>Cuatrimestre Mayo - Agosto 2021 </h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cande Ricardo Leyva Hernandez 00312949
 
-### Markdown
+<h2 align='center'>o OBJETIVO GENERAL o</h2>
+El objetivo principal de este proyecto es conocer y aprender todas las fases del desarrollo
+de un videojuego 2d. Todo ello, a través de la herramienta de desarrollo Greenfoot, ampliamente utilizada 
+para el desarrollo de juegos 2d y aprendizaje basico para programar en el lenguaje de java y facilitar el conocimiento.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h2 align='center'>o EXPLICACION DE LAS REGLAS Y NIVELES DEL JUEGO o</h2>
 
-```markdown
-Syntax highlighted code block
+<h2 align='center'>o IMAGENES Y EXPLICACION DE LOS ELEMETOS DEL JUEGO o</h2>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<h2 align='center'>o ENLACE PARA DESCARGAR EL ARCHIVO EJECUTABLE o</h2>
+<a href="https://github.com/candrhiz/proyecto-POO.git">LINK PARA DESCARGAR EL CODIGO</a>
 
-[Link](url) and ![Image](src)
-```
+<h2 align='center'>o DIAGRAMAS DE CLASES UML o</h2>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/candrhiz/Proyecto-BDD/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+<h2 align='center'>o ENLACE AL VIDEO DE YOUTUBE o</h2>
+<a href="https://youtu.be/RlfgqXQ_tKk">LINK AL VIDEO DEL PROYECTO: F1_ESAY</a>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h2 align='center'>o ENLACE AL PROYECTO PUBLICADO EN GREENFOOT o</h2>
+<a href="https://www.greenfoot.org/scenarios/28391">LINK AL PROYECTO: F1_ESAY</a>
+
+
+<h2 align='center'>o CREDITOS o</h2>
+Universidad Interamericana para el Desarrollo,
+Cande Ricardo Leyva Hernandez, ID:00312949,
+Carrera: Programacion Orientada a Objetos,
+Profesor: Kevin Armando Luciano Garcia,
+AGOSTO/2021,
+Sexto Cuatrimestre.
