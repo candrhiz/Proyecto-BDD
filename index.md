@@ -18,8 +18,11 @@ El objetivo principal es que desarrollo un sistema web escolar basado para el do
 "Eliminado el resgistro del alumno"
 
 <h2 align='center'>o DIAGRAMAS DE CLASES UML o</h2>
+[![diagrama-de-clases.png](https://i.postimg.cc/QCK61pkM/diagrama-de-clases.png)](https://postimg.cc/gLdqPL79)
+'Diagarama de clases'
 
-
+[![diagrama-de-casos-de-uso.png](https://i.postimg.cc/yxRMsqGn/diagrama-de-casos-de-uso.png)](https://postimg.cc/30KSFqYD)
+'Diagrama de casos de uso'
 
 <h2 align='center'>o ENLACE PARA DESCARGAR EL ARCHIVO EJECUTABLE o</h2>
 <a href="https://github.com/candrhiz/Proyecto-BDD.git">LINK PARA DESCARGAR EL CODIGO</a>
