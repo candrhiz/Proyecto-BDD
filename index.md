@@ -5,18 +5,10 @@
 Cande Ricardo Leyva Hernandez 00312949
 
 <h2 align='center'>o OBJETIVO GENERAL o</h2>
-El objetivo principal de este proyecto es conocer y aprender todas las fases del desarrollo
-de un videojuego 2d. Todo ello, a través de la herramienta de desarrollo Greenfoot, ampliamente utilizada 
-para el desarrollo de juegos 2d y aprendizaje basico para programar en el lenguaje de java y facilitar el conocimiento.
-
-<h2 align='center'>o EXPLICACION DEL PROYECTO o</h2>
-
-
-
-
+El objetivo principal es que desarrollo un sistema web escolar basado para el docente, tambien se creo la base de datos, todo esto apkicado de los conocimientos que tuvimos durante el cuatrimestre cursado.
 
 <h2 align='center'>o ENLACE PARA DESCARGAR EL ARCHIVO EJECUTABLE o</h2>
-<a href=https://github.com/candrhiz/Proyecto-BDD.git>LINK PARA DESCARGAR EL CODIGO</a>
+<a href="https://github.com/candrhiz/Proyecto-BDD.git">LINK PARA DESCARGAR EL CODIGO</a>
 
 <h2 align='center'>o DIAGRAMAS DE CLASES UML o</h2>
 
