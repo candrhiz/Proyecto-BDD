@@ -30,7 +30,7 @@ El objetivo principal es que desarrollo un sistema web escolar basado para el do
 <a href="https://github.com/candrhiz/Proyecto-BDD.git">LINK PARA DESCARGAR EL CODIGO</a>
 
 <h2 align='center'>o ENLACE AL VIDEO DE YOUTUBE o</h2>
-<a href="">LINK AL VIDEO DEL PROYECTO</a>
+<a href="https://youtu.be/qkrJg4bNzNE">LINK AL VIDEO DEL PROYECTO</a>
 
 
 <h2 align='center'>o CREDITOS o</h2>
